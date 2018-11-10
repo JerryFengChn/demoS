@@ -1,4 +1,4 @@
 package com.shiyilang.learn.demo.service;
 
-public class helloWorldService {
+public class HelloWorldService {
 }
